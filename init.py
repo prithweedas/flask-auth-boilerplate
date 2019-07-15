@@ -1,0 +1,1 @@
+from flaskrest import app
